@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(219, 40%, 74%);
+    background-color: hsl(212, 45%, 89%);
   }
   .card {
     width : 300px;
@@ -7,7 +7,7 @@ body {
     background-color: white;
     position : relative;
     left : 50%;
-    transform : translate(-50%,50%);
+    transform : translate(-50%,40%);
     border-radius : 10px;
   }
   .image {
@@ -33,6 +33,6 @@ body {
     
   }
   .main-description {
-    color : hsl(212, 45%, 59%);
+    color : hsl(220, 15%, 55%);
     font-size : 14px;
   }
