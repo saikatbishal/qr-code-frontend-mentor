@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(220, 15%, 55%);
+  }
+  .card {
+    width : 300px;
+    height : max-content;
+    background-color: white;
+    position : relative;
+    left : 50%;
+    transform : translate(-50%,50%);
+    border-radius : 10px;
+  }
+  .image {
+    width : 250px;
+    height : 250px;
+    border-radius : 10px;
+  }
+  .qr-code {
+    margin : 25px;
+    top : 25px;
+    padding-top : 25px;
+  }
+  .desc-sec {
+    padding : 27px;
+    padding-top : 0;
+    font-family : sans-serif;
+    text-align : center
+  }
+  .heading-section {
+    font-size : 20px;
+    font-weight : 600;
+    padding-bottom : 20px;
+    
+  }
+  .main-description {
+    color : hsl(212, 45%, 59%);
+    font-size : 14px;
+  }
